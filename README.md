@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project showcases a **Retail Growth Analytics dashboard** built using the Sample Metabase dataset. It provides actionable insights into **customer acquisition, engagement, retention, product performance, and revenue trends**, simulating a Growth Analyst’s work in retail or banking.
+This project showcases a **Retail Growth Analytics dashboard** built using the Internal Metabase dataset. It provides actionable insights into **customer acquisition, engagement, retention, product performance, and revenue trends**, simulating a Growth Analyst’s work in retail or banking.
 
 ---
 ## **View Dashboard**
