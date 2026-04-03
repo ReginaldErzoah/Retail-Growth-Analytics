@@ -5,6 +5,11 @@
 This project showcases a **Retail Growth Analytics dashboard** built using the Sample Metabase dataset. It provides actionable insights into **customer acquisition, engagement, retention, product performance, and revenue trends**, simulating a Growth Analyst’s work in retail or banking.
 
 ---
+## **View Dashboard**
+
+[Open Retail Growth Analytics Dashboard](https://tailed-puffin.metabaseapp.com/public/dashboard/e1ebc6bc-1c1a-42da-a11c-c4ac8cc61d2d)
+
+---
 
 ## **Key Features**
 
@@ -20,12 +25,6 @@ This project showcases a **Retail Growth Analytics dashboard** built using the S
 * H2 Database, SQL
 * Metabase (interactive dashboard)
 * Data aggregation, funnel, and trend analysis
-
----
-
-## **View Dashboard**
-
-[Open Retail Growth Analytics Dashboard](https://your-metabase-dashboard-link.com)
 
 ---
 
