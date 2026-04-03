@@ -22,7 +22,7 @@ This project showcases a **Retail Growth Analytics dashboard** built using the I
 
 ## **Tools & Technologies**
 
-* H2 Database, SQL
+* SQL
 * Metabase (interactive dashboard)
 * Data aggregation, funnel, and trend analysis
 
