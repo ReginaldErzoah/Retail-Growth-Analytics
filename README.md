@@ -8,6 +8,7 @@ This project showcases a **Retail Growth Analytics dashboard** built using the I
 ## **View Dashboard**
 
 [Open Retail Growth Analytics Dashboard](https://tailed-puffin.metabaseapp.com/public/dashboard/e1ebc6bc-1c1a-42da-a11c-c4ac8cc61d2d)
+Or check Dashboard PDF file in repo.
 
 ---
 
